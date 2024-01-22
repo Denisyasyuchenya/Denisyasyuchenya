@@ -1,12 +1,17 @@
-<p align="left">
-  <img width="250" src="https://media.giphy.com/media/ftH9VauaQTWvBbUcGw/giphy.gif">
-</p>
+<table>
+  <tr>
+    <td>
+      <img width="250" src="https://media.giphy.com/media/ftH9VauaQTWvBbUcGw/giphy.gif">
+    </td>
 
-
-<p align="left">
+    <td>
+      <pre>
                 _                      
  _ __ __  ___ | | __  ___  _ __   ___ 
  \ V  V // -_)| |/ _|/ _ \| '  \ / -_)
   \_/\_/ \___||_|\__|\___/|_|_|_|\___|
+      </pre>
+    </td>
+  </tr>
+</table>
 
-</p>
